@@ -1,4 +1,4 @@
-package golibtemplate
+package varexpand
 
 import (
 	"regexp"
