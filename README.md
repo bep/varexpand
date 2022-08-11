@@ -1,3 +1,6 @@
+Replaced by https://github.com/bep/helpers
+---
+
 [![Tests on Linux, MacOS and Windows](https://github.com/bep/varexpand/workflows/Test/badge.svg)](https://github.com/bep/varexpand/actions?query=workflow:Test)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bep/varexpand)](https://goreportcard.com/report/github.com/bep/varexpand)
 [![GoDoc](https://godoc.org/github.com/bep/varexpand?status.svg)](https://godoc.org/github.com/bep/varexpand)
